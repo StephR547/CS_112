@@ -1,0 +1,88 @@
+StephanieRamirez@Stephanies-MacBook-Air LAB2 % gcc lab2.c char_linked.c string_linked.c
+StephanieRamirez@Stephanies-MacBook-Air LAB2 % ./a.out                                 
+Pick One Of The Following Letters:  { C }  { L }  { F }  { X }  { K }  { V }  { B } 
+C
+
+Player Has chosen: C 
+ { C } 
+You Currently Have The Word: C 
+This Is Not A Valid Scrabble Word :(
+Players Current Score Is: 0
+Pick One Of The Following Letters:  { R }  { U }  { W }  { H }  { K }  { D }  { M } 
+R
+
+Player Has chosen: R 
+Player's Hand Currently Has: 0
+ { C } 1 
+Please Enter The Index Which You Would Like To Input A New Letter: 1
+
+ { C }  { R } 
+Player On Turn: 2
+You Currently Have The Word: CR 
+This Is Not A Valid Scrabble Word :(
+Players Current Score Is: 0
+Pick One Of The Following Letters:  { N }  { G }  { Q }  { H }  { T }  { L }  { A } 
+A
+
+Player Has chosen: A 
+Player's Hand Currently Has: 0
+ { C } 1  { R } 2 
+Please Enter The Index Which You Would Like To Input A New Letter: 2
+
+ { C }  { R }  { A } 
+Player On Turn: 3
+You Currently Have The Word: CRA 
+This Is Not A Valid Scrabble Word :(
+Players Current Score Is: 0
+Pick One Of The Following Letters:  { L }  { V }  { F }  { O }  { M }  { N }  { W } 
+N
+
+Player Has chosen: N 
+Player's Hand Currently Has: 0
+ { C } 1  { R } 2  { A } 3 
+Please Enter The Index Which You Would Like To Input A New Letter: 3
+
+ { C }  { R }  { A }  { N } 
+Player On Turn: 4
+You Currently Have The Word: CRAN 
+This Is Not A Valid Scrabble Word :(
+Players Current Score Is: 0
+Pick One Of The Following Letters:  { Y }  { T }  { F }  { J }  { B }  { Q }  { K } 
+K
+
+Player Has chosen: K 
+Player's Hand Currently Has: 0
+ { C } 1  { R } 2  { A } 3  { N } 4 
+Please Enter The Index Which You Would Like To Input A New Letter: 4
+
+ { C }  { R }  { A }  { N }  { K } 
+Player On Turn: 5
+You Currently Have The Word: CRANK 
+This Is A Word In The Scrabble Dictionary :)!
+Players Current Score Is: 1
+Pick One Of The Following Letters:  { O }  { J }  { Q }  { C }  { Y }  { E }  { F } 
+Y
+
+Player Has chosen: Y 
+Player's Hand Currently Has: 0
+ { C } 1  { R } 2  { A } 3  { N } 4  { K } 5 
+Please Enter The Index Which You Would Like To Input A New Letter: 5
+
+ { C }  { R }  { A }  { N }  { K }  { Y } 
+Player On Turn: 6
+You Currently Have The Word: CRANKY 
+This Is A Word In The Scrabble Dictionary :)!
+Players Current Score Is: 2
+Pick One Of The Following Letters:  { W }  { A }  { D }  { Z }  { Y }  { P }  { L } 
+Y
+
+Player Has chosen: Y 
+Player's Hand Currently Has: 0
+ { C } 1  { R } 2  { A } 3  { N } 4  { K } 5  { Y } 6 
+Please Enter The Index Which You Would Like To Input A New Letter: 6
+
+ { C }  { R }  { A }  { N }  { K }  { Y }  { Y } 
+You Currently Have The Word: CRANKYY 
+This Is Not A Valid Scrabble Word :(
+Players Current Score Is: 2
+Your Final Score: 2

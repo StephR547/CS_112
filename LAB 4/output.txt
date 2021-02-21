@@ -1,0 +1,158 @@
+StephanieRamirez@Stephanies-MacBook-Air LAB 4 % gcc lab4.c linked.c
+StephanieRamirez@Stephanies-MacBook-Air LAB 4 % ./a.out            
+Please Enter The Number Of Players: 4
+Please Enter The Name Of Player 1: BILL
+Please Enter The Name Of Player 2: JILL
+Please Enter The Name Of Player 3: PHIL
+Please Enter The Name Of Player 4: WILL
+{ BILL } 
+{ JILL } 
+{ PHIL } 
+{ WILL } 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 3
+ BILL Is Passing the radish to JILL 
+The current player is JILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ JILL Is Passing the radish to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 3
+ PHIL Is Passing the radish to WILL 
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 1
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 3
+ BILL Is Passing the radish to JILL 
+The current player is JILL
+THE RADISH HAS EXPLODED! JILL WAS KILLED
+The current player is PHIL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ PHIL Is Passing the radish to WILL 
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 1
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ BILL Is Passing the radish to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 3
+ PHIL Is Passing the radish to WILL 
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 1
+ BILL Is Passing the radish to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ PHIL Is Passing the radish to WILL 
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 1
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 3
+ BILL Is Passing the radish to PHIL 
+The current player is PHIL
+THE RADISH HAS EXPLODED! PHIL WAS KILLED
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 1
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ BILL Is Passing the radish to WILL 
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 3
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ BILL Is Passing the radish to WILL 
+The current player is WILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 1
+ WILL Is Passing the radish to BILL 
+The current player is BILL
+Please Enter One Of The Following Options:
+1: Pass now (1 second)
+2: Wait 1 seconds then pass (2 seconds)
+3: Wait 2 seconds then pass (3 seconds)
+Enter Your Choice As A Number: 2
+ BILL Is Passing the radish to WILL 
+The current player is WILL
+THE RADISH HAS EXPLODED! WILL WAS KILLED
+BILL HAS WON THE GAME!
